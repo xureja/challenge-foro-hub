@@ -1,4 +1,4 @@
-# :coffee: challenge-foro-hub :coffee:
+# :coffee: challenge-foro-hub 🍪:
 
 ## Funcionamiento
 
